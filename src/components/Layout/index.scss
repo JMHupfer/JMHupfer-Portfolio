@@ -39,18 +39,9 @@
 }
 
 .about-page,
-.contact-page {
-    .text-zone{
-        position: absolute;
-        left: 20%;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 40%;
-        vertical-align: middle;
-        display: table-cell;
-        max-height: 90%;
-    }
-
+.contact-page,
+.portfolio-page {
+    
     h1 {
         font-size: 53px;
         font-family: 'Coolvetica';
@@ -60,7 +51,8 @@
         position: relative;
         margin-bottom: 40px;
         left: -5px;
-
+        
+        
         &::before {
             content: '<h1>';
             font-family: 'La Belle Aurore';
@@ -71,7 +63,7 @@
             opacity: 0.6;
             line-height: 18px;
         }
-
+        
         &::after {
             content: '<h1/>';
             font-family: 'La Belle Aurore';
@@ -84,12 +76,23 @@
             opacity: 0.6;
         }
     }
-
+    
     p {
         font-size: 15px;
         color: black;
         font-family: sans-serif;
         font-weight: 300;
         min-width: fit-content;
+    }
+
+    .text-zone{
+        position: absolute;
+        left: 20%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;
     }
 }

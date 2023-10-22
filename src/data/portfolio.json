@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/Port2/portfolio.png",
+            "title": "StarTech Blog",
+            "description": "MVC",
+            "url": "https://obscure-scrubland-72756-e5430c1bbc0c.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/Port2/portfolio2.png",
+            "title": "Coding Quiz",
+            "description": "Web-APIs",
+            "url": "https://jmhupfer.github.io/Code-Quiz/"
+        },
+        {
+            "cover": "/portfolio/Port2/portfolio3.png",
+            "title": "Employee Tracker",
+            "description": "SQL",
+            "url": "https://drive.google.com/file/d/1px2yDh7LqFRzzpIujHbaNzGIl5GfbNRt/view?pli=1"
+        },
+        {
+            "cover": "/portfolio/Port2/portfolio4.png",
+            "title": "Logo Generator",
+            "description": "OOP",
+            "url": "https://drive.google.com/file/d/1m08s8wvGt_sRFgR87EiWEuhnDXVrXG-z/view"
+        }
+    ]
+}
