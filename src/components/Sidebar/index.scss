@@ -18,7 +18,7 @@
         width: 150px;
         height: auto;
     }
-}
+
 
 nav {
     display: block;
@@ -73,6 +73,7 @@ nav {
         }
     }
 }
+}
 
     a.about-link {
         &:after {
@@ -92,21 +93,24 @@ nav {
         }
     }
 
+
     ul {
         position: absolute;
-        bottom: 20px;
-        width: 100%;
-        display: block;
-        padding: 0;
+        bottom: 10px;
+        width: 50%;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        left: 35px;
         list-style: none;
         text-align: center;
         margin: 0;
     }
 
     li {
-        padding: 7px 0;
+        padding: 45px 10px;
         display: block;
-        font-size: 15px;
+        font-size: 35px;
         line-height: 15px;
 
         &:hover svg {

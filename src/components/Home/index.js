@@ -15,10 +15,7 @@ const Home = () => {
         {/* <AnimatedLetters letterClass={letterClass} */}
         {/* strArray={nameArray} */}
         {/* idx={15}/> */}
-        <h2>
-          Frontend Developer with heavy interest in learning more backend
-          concepts
-        </h2>
+        <h2>Frontend Developer | Code Lover | Future Tech Expert</h2>
         <Link to="/contact" className="flat-button">
           Contact Me
         </Link>
