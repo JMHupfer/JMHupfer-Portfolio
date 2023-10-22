@@ -1,0 +1,27 @@
+.stage-cube-cont {
+    width: 50%;
+    height: 100%;
+    top: -380px;
+    padding-top: 18%;
+    margin-left: 0px;
+    position: absolute;
+    right: -350px;
+    overflow: hidden;
+}
+
+.cubespinner {
+    display: flex;
+    flex-direction: column;
+
+    div {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        background: none;
+        font-size: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+}
