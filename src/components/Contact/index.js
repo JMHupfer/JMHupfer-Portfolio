@@ -1,6 +1,35 @@
+import { useRef } from 'react'
 import './index.scss'
+import emailjs from '@emailjs/browser'
 
 const Contact = () => {
+  const refForm = useRef()
+
+  const sendEmail = (e) => {
+    e.preventDefault()
+
+    console.log(refForm.current)
+
+    emailjs
+      .sendForm(
+        'service_ja28rf1',
+        'template_7mza5jg',
+        refForm.current,
+        'vmFcaQd6GkuPYS96Z'
+      )
+      .then(
+        () => {
+          console.log('SUCCESS!')
+          alert('Your message is sent!')
+          window.location.reload(false)
+        },
+        () => {
+          console.log('TRY AGAIN!')
+          alert('Message failed to send, please try again')
+        }
+      )
+  }
+
   return (
     <>
       <div className="container contact-page">
@@ -12,7 +41,7 @@ const Contact = () => {
             form below.
           </p>
           <div className="contact-form">
-            <form>
+            <form ref={refForm} onSubmit={sendEmail}>
               <ul>
                 <li className="half">
                   <input type="text" name="name" placeholder="Name" required />
