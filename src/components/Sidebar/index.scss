@@ -43,7 +43,7 @@ nav {
         }
 
         &:hover {
-            color: #f5f5fc;
+            color: #f5f5dc;
 
         svg {
             opacity: 0;
@@ -79,9 +79,38 @@ nav {
             content: 'ABOUT';
         }
     }
+
     a.contact-link {
         &:after {
             content: 'CONTACT';
+        }
+    }
+
+    a.active {
+        svg {
+            color: beige;
+        }
+    }
+
+    ul {
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+        display: block;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        margin: 0;
+    }
+
+    li {
+        padding: 7px 0;
+        display: block;
+        font-size: 15px;
+        line-height: 15px;
+
+        &:hover svg {
+            color: #f5f5dc;
         }
     }
 }
