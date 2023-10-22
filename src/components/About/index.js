@@ -46,8 +46,8 @@ const About = () => {
           me to contribute meaningfully to the global community.
         </p>
       </div>
-      <div className="stage-cube-cont">
-        <div className="cubespinner">
+      <div className="stage-icon-cont">
+        <div className="iconcolumn">
           <div className="face1">
             <FontAwesomeIcon icon={faHtml5} color="#F06529" />
           </div>
