@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JMHupfer-Portfolio/static/css/main.4e37425e.css",
-    "main.js": "/JMHupfer-Portfolio/static/js/main.204982ae.js",
+    "main.js": "/JMHupfer-Portfolio/static/js/main.54a2298c.js",
     "static/js/787.28cb0dcd.chunk.js": "/JMHupfer-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/helvetica-neu.ttf": "/JMHupfer-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/logo_letter.png": "/JMHupfer-Portfolio/static/media/logo_letter.e0c8ad237e62393bf1fb.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/JMHupfer-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/JMHupfer-Portfolio/index.html",
     "main.4e37425e.css.map": "/JMHupfer-Portfolio/static/css/main.4e37425e.css.map",
-    "main.204982ae.js.map": "/JMHupfer-Portfolio/static/js/main.204982ae.js.map",
+    "main.54a2298c.js.map": "/JMHupfer-Portfolio/static/js/main.54a2298c.js.map",
     "787.28cb0dcd.chunk.js.map": "/JMHupfer-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e37425e.css",
-    "static/js/main.204982ae.js"
+    "static/js/main.54a2298c.js"
   ]
 }
