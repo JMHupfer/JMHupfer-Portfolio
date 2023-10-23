@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.77514b71.css",
-    "main.js": "/my-app/static/js/main.3766d4c8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/helvetica-neu.ttf": "/my-app/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_letter.png": "/my-app/static/media/logo_letter.e0c8ad237e62393bf1fb.png",
-    "static/media/LaBelleAurore.woff2": "/my-app/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-j.png": "/my-app/static/media/logo-j.05dbe31494a5e7f7b3a2.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/my-app/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/my-app/index.html",
-    "main.77514b71.css.map": "/my-app/static/css/main.77514b71.css.map",
-    "main.3766d4c8.js.map": "/my-app/static/js/main.3766d4c8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/JMHupfer-Portfolio/static/css/main.4e37425e.css",
+    "main.js": "/JMHupfer-Portfolio/static/js/main.204982ae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/JMHupfer-Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/helvetica-neu.ttf": "/JMHupfer-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_letter.png": "/JMHupfer-Portfolio/static/media/logo_letter.e0c8ad237e62393bf1fb.png",
+    "static/media/LaBelleAurore.woff2": "/JMHupfer-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-j.png": "/JMHupfer-Portfolio/static/media/logo-j.05dbe31494a5e7f7b3a2.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/JMHupfer-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/JMHupfer-Portfolio/index.html",
+    "main.4e37425e.css.map": "/JMHupfer-Portfolio/static/css/main.4e37425e.css.map",
+    "main.204982ae.js.map": "/JMHupfer-Portfolio/static/js/main.204982ae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/JMHupfer-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77514b71.css",
-    "static/js/main.3766d4c8.js"
+    "static/css/main.4e37425e.css",
+    "static/js/main.204982ae.js"
   ]
 }
