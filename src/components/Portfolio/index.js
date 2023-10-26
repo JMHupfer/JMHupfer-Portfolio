@@ -32,7 +32,7 @@ const Portfolio = () => {
     return (
         <>
         <div className="container portfolio-page">
-            <h1 className="page-title">Portfolio</h1>
+            <h1 className="page-title">Projects</h1>
             <div>{renderPortfolio(portfolioData.portfolio)}</div>
         </div>
         </>    
