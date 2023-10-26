@@ -13,38 +13,42 @@ const About = () => {
       <div className="text-zone">
         <h1>The Coder: Jacob Hupfer</h1>
         <p>
-          I'm an avid traveler with an insatiable curiosity for diverse
-          cultures, languages, and perspectives. I firmly believe that our world
-          should draw closer together, finding unity in our shared humanity. My
-          journey towards contributing to globalization was somewhat cloudy, I
-          was not sure where to start. While residing in China prior to the
-          pandemic, I had an epiphany: technology held the key. The prospect of
-          technology acting as a bridge between nations resonated deeply with
-          me. It's with great anticipation that I embark on this tech-driven
-          odyssey, eager to discover the myriad of paths that will unfold before
-          me.
+          I love exploring new places, meeting different people, and
+          understanding their ways of life. I believe that we're all connected
+          by our shared humanity, and technology can help bring us even closer.
+          When I lived in China before the pandemic, it hit me: tech could be
+          the bridge we needed. Now, I'm excited to dive into this tech-driven
+          journey and see where it takes me.
         </p>
         <p>
-          Adaptability is a hallmark of my character. I thrive in environments
-          that demand quick thinking and an ability to pivot when necessary.
-          Patience is another trait I hold dear. It allows me to navigate
-          complexities with a calm and measured approach, even in the face of
-          challenges. Coupled with my adaptable nature, this quality ensures
-          that I can weather any storm and emerge stronger on the other side.
-          Moreover, I approach each endeavor as an opportunity to learn and
-          grow. This inherent willingness to absorb new knowledge has been
-          instrumental in shaping my journey thus far.
+          I'm good at adapting to change and quick thinking, which comes in
+          handy in fast-paced environments. Patience is something I value too.
+          It helps me stay calm and focused, even when things get tough.
+          Together with my ability to adapt, it means I can handle challenges
+          and come out stronger. Plus, I see every new experience as a chance to
+          learn and grow. This eagerness to soak up knowledge has been key in
+          shaping my journey so far.
         </p>
         <p>
-          In this dynamic era of rapid technological advancement, I'm eager to
-          be a part of the driving force behind progress. With adaptability as
-          my compass, I am poised to navigate the ever-evolving landscape of
-          tech-driven globalization. My patient and open-minded approach ensures
-          that I not only embrace challenges but relish them as opportunities
-          for growth. I approach every endeavor with a genuine enthusiasm for
-          learning, knowing that each experience enriches my journey and equips
-          me to contribute meaningfully to the global community.
+          In this time of fast tech progress, I'm eager to be part of the push
+          forward. With my adaptability, I'm ready to navigate the ever-changing
+          world of tech and globalization. My patient and open-minded approach
+          means I don't just face challenges - I embrace them as chances to
+          grow. I approach everything with a real excitement for learning,
+          knowing each experience adds something special to my journey and lets
+          me give back to the world in a meaningful way.
         </p>
+        <h2 className="resume-header">
+          You will find my resume{' '}
+          <a
+            href="https://docs.google.com/document/d/1PfFA-L5ruiCUR3hDeCsEeghHjMNngNKW/edit#heading=h.gjdgxs"
+            target="_blank"
+            rel="noreferrer"
+            className="resume"
+          >
+            here!
+          </a>
+        </h2>
       </div>
       <div className="stage-icon-cont">
         <div className="iconcolumn">
