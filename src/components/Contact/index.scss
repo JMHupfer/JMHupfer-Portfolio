@@ -1,6 +1,6 @@
 .contact-form {
     width: 100%;
-    margin-top:  20px;
+    margin-top: 20px;
 
     ul {
         padding: 0;
@@ -66,5 +66,11 @@
         border: 1px solid black;
         float: right;
         border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .flat-button:hover {
+        background: #b59f84;
+        color: beige;
     }
 }
