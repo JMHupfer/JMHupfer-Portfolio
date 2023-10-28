@@ -37,7 +37,7 @@ const Portfolio = () => {
         <h1 className="page-title">Projects</h1>
         <div>{renderPortfolio(portfolioData.portfolio)}</div>
       </div>
-      <Loader type="ball-grid-beat" />
+      <Loader type="line-spin-fade-loader" />
     </>
   )
 }

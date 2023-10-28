@@ -17,7 +17,7 @@ const Home = () => {
       </div>
       <Logo />
     </div>
-    <Loader type="ball-grid-beat" />
+    <Loader type="line-spin-fade-loader" />
     </>
   )
 }
