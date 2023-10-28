@@ -6,9 +6,11 @@ import {
   faJsSquare,
   faReact,
 } from '@fortawesome/free-brands-svg-icons'
+import Loader from 'react-loaders'
 
 const About = () => {
   return (
+    <>
     <div className="container about-page">
       <div className="text-zone">
         <h1>The Coder: Jacob Hupfer</h1>
@@ -67,6 +69,8 @@ const About = () => {
         </div>
       </div>
     </div>
+    <Loader type="ball-grid-beat" />
+    </>
   )
 }
 

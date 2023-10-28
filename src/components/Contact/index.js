@@ -1,6 +1,7 @@
 import { useRef } from 'react'
 import './index.scss'
 import emailjs from '@emailjs/browser'
+import Loader from 'react-loaders'
 
 const Contact = () => {
   const refForm = useRef()
@@ -77,6 +78,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
+      <Loader type="ball-grid-beat" />
     </>
   )
 }
